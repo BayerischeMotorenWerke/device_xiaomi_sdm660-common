@@ -1,0 +1,2 @@
+# Adaptive charging
+allow init vendor_sysfs_battery_supply:file { setattr };
